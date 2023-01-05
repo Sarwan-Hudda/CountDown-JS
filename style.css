@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+#wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.para h1{
+    color: aqua;
+    font-weight: 700;
+    font-size: 90px;
+}
+.para p {
+     font-size: 70px;
+     text-align: center;
+}
